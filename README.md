@@ -1,2 +1,2 @@
-# szpc-projeto-the-last-of-us
-Projeto de Front-End
+#Projeto de Front-End
+Projeto desenvolvido em um minicurso do Dev em Dobro
